@@ -1,0 +1,7 @@
+Credentials cache: API:10817
+        Principal: bedavis@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul 29 19:41:23 2019  Jul 30 05:41:23 2019  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Jul 29 19:41:24 2019  Jul 30 05:41:23 2019  ldap/ldap-master.21-school.ru@21-SCHOOL.RU
+Jul 29 19:41:24 2019  Jul 30 05:41:23 2019  HTTP/storage-student.21-school.ru@21-SCHOOL.RU
